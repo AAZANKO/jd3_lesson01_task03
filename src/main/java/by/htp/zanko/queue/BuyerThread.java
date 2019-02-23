@@ -45,4 +45,5 @@ public class BuyerThread extends Thread {
             System.out.println(name + " покидает магазин");
         }
     }
+
 }
